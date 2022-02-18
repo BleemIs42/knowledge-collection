@@ -1,4 +1,4 @@
-# Knowledge
+# Knowledge Collection
 
 ## 跨端 GUI 库
 
@@ -43,6 +43,9 @@ ident_list = _{ !digit ~ ident ~ (" " ~ ident)? }
 
 ### [inkwell](https://github.com/TheDan64/inkwell)
 LLVM 的 Rust 封装
+
+### [Crafting Interpreters](http://craftinginterpreters.com/)
+一本关于编译器和解释器的书
 
 ## 命令行参数解析工具
 
