@@ -52,6 +52,9 @@ LLVM 的 Rust 封装
 ### [clap](https://github.com/clap-rs/clap)
 基于 Rust 命令行参数解析
 
+### [Pratt Parsing Index and Updates](https://www.oilshell.org/blog/2017/03/31.html)
+表达式解析算法研究
+
 ## 操作系统
 
 ### [v86](https://github.com/copy/v86)
