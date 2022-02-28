@@ -54,6 +54,9 @@ LLVM 的 Rust 封装
 
 ### [Pratt Parsing Index and Updates](https://www.oilshell.org/blog/2017/03/31.html)
 表达式解析算法研究
+- [Simple but Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
+- [How Desmos uses Pratt Parsers](https://engineering.desmos.com/articles/pratt-parser/)
+- [Top Down Operator Precedence](https://tdop.github.io/)
 
 ## 操作系统
 
