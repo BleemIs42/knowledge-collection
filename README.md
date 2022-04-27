@@ -1,5 +1,14 @@
 # Knowledge Collection
 
+## CS
+
+### [CS自学指南](https://csdiy.wiki/)
+
+### [CS 110L: Safety in Systems Programming
+](https://reberhardt.com/cs110l/spring-2020/)
+Rust 
+
+
 ## 跨端 GUI 库
 
 ### [Dioxus](https://dioxuslabs.com/)
@@ -47,7 +56,10 @@ LLVM 的 Rust 封装
 ### [Crafting Interpreters](http://craftinginterpreters.com/)
 一本关于编译器和解释器的书
 
-## 命令行参数解析工具
+## 命令行工具
+
+### [Fig](https://fig.io/)
+IDE-style autocomplete
 
 ### [clap](https://github.com/clap-rs/clap)
 基于 Rust 命令行参数解析
@@ -67,10 +79,13 @@ LLVM 的 Rust 封装
 USB boot loader
 
 ### [writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust)
+>[Writing an OS in Rust](https://os.phil-opp.com/)
 使用 Rust 写操作系统教程
 
 ### [rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)
 Rust 实现 RISC-V 架构操作系统
+
+### [rCore-Tutorial V3](https://rcore-os.github.io/rCore-Tutorial-deploy/)
 
 ## 工具
 
@@ -159,3 +174,9 @@ B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
+## 机器学习
+
+### [机器学习系统：设计和实现](https://openmlsys.github.io/)
+
+### [Let's simulate evolution in Rust!](https://pwy.io/en/posts/learning-to-fly-pt1/)
+遗传算法实现小游戏
