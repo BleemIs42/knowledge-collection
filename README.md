@@ -180,3 +180,8 @@ C -->|Two| E[Result 2]
 
 ### [Let's simulate evolution in Rust!](https://pwy.io/en/posts/learning-to-fly-pt1/)
 遗传算法实现小游戏
+
+## 嵌入式
+
+### [嵌入式 Rust 学习](https://www.youtube.com/watch?v=_sYnzFe9A6E)
+这是一个嵌入式入门教学视频, 不需要任何硬件或复杂的设置. 在这个视频中，作者展示了如何通过 ARM Cortex M0+ 系列处理器 来学习嵌入式 Rust
